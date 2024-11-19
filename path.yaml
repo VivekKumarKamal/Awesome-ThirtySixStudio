@@ -6,5 +6,7 @@ put images in array ✅
 create canvas component ✅
   load first 150 images ✅
   animate the canvas ✅
-  make canvas dynamic so that it loads 150 images from desired index
-  resuse the canvas component to create a new canvas as many times as needed
+  make canvas dynamic so that it loads 150 images from desired index ✅
+  resuse the canvas component to create a new canvas as many times as needed ✅
+cursor tracking circle
+music in the background

@@ -50,7 +50,6 @@ function Canvas({ details }){
         <canvas
             data-scroll
             data-scroll-speed={Math.random().toFixed(2)}
-
             ref={canvasRef}
             className="absolute"
             style={{
